@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
- or on [![LinkedIn][3.2]][3].
+
 
 <!-- Icons -->
 
