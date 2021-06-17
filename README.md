@@ -50,11 +50,12 @@ Here are some ideas to get you started:
  ---
 
 <div>
+  (https://github-readme-stats.vercel.app/api?username=TharllysonSilva&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharllysonSilva&layout=compact)](https://github.com/TharllysonSilva/github-readme-stats)
  <!--   <a href="https://github.com/bulletsentence?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulletsentence&count_private=true" width="205"/>
     </a>-->
 </div>
- ![](https://github-readme-stats.vercel.app/api?username=TharllysonSilva&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharllysonSilva&layout=compact)](https://github.com/TharllysonSilva/github-readme-stats)
+
  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TharllysonSilva&hide_border=true&style=centerme)
