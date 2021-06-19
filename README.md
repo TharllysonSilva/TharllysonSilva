@@ -55,4 +55,4 @@
 
  
  
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TharllysonSilva&hide_border=true&style=centerme&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TharllysonSilva&hide_border=true&style=centerme&theme=dracula)
