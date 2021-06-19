@@ -57,11 +57,7 @@
  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TharllysonSilva&hide_border=true&style=centerme&theme=dracula)
     
-<a href="https://github.com/TharllysonSilva/DashboardUni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TharllysonSilva&repo=DashboardUni " />
-</a>
-<a href="https://github.com/TharllysonSilva/DashboardUni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TharllysonSilva&repo=DashboardUni" />
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharllysonSilva&layout=compact)](https://github.com/TharllysonSilva/github-readme-stats)
 
 
