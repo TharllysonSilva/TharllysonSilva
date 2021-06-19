@@ -57,10 +57,10 @@
  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TharllysonSilva&hide_border=true&style=centerme&theme=dracula)
     
-<a href="https://github.com/TharllysonSilva/github-readme-stats">
+<a href="https://github.com/TharllysonSilva/DashboardUni">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TharllysonSilva&repo=DashboardUni " />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/TharllysonSilva/DashboardUni">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TharllysonSilva&repo=DashboardUni" />
 </a>
 
