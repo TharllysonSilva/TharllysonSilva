@@ -57,5 +57,11 @@
  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TharllysonSilva&hide_border=true&style=centerme&theme=dracula)
     
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TharllysonSilva&repo=dashboardUni)](https://github.com/TharllysonSilva/dashboardUni)
+<a href="https://github.com/TharllysonSilva/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TharllysonSilva&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TharllysonSilva&repo=convoychat" />
+</a>
+
 
