@@ -1,11 +1,13 @@
 ### Hi there I am Tarllysson 👋
 
-    🔭 I am currently working with web development in php
+    🔭 I am currently working with web development in php / UX UI design
     🌱 I am currently learning Laravel
     💬 Ask me about best practices in programming
     📫 How to contact me: tharllysonsilva@gmail.com / tarllyssondesigner@gmail.com
     
     ⚡ Fun Facts: Open to freelancers
+
+
 
 <!--![](https://github-readme-stats.vercel.app/api?username=TharllysonSilva&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharllysonSilva&layout=compact)](https://github.com/TharllysonSilva/github-readme-stats)
