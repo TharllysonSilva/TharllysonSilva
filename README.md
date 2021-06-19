@@ -58,4 +58,4 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TharllysonSilva&hide_border=true&style=centerme&theme=dracula)
     
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savio777&langs_count=8)](https://github.com/savio777/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
