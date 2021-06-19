@@ -6,6 +6,7 @@
     📫 How to contact me: tharllysonsilva@gmail.com / tarllyssondesigner@gmail.com
     
     ⚡ Fun Facts: Open to freelancers
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
@@ -30,6 +31,7 @@
 
 
 -----------------------
+
 <h3 align='center'>
 * Social Media *
 <h3>
