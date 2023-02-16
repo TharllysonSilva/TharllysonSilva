@@ -1,6 +1,6 @@
 ### Hi there I am Tarllysson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-    🔭 I am currently working with web development in php / UX UI design
+    🔭 I am currently working with web development in Dart / Flutter / FlutterFlow / UX UI Design
     🌱 I am currently learning Laravel
     💬 Ask me about best practices in programming
     📫 How to contact me: tharllysonsilva@gmail.com / tarllyssondesigner@gmail.com
@@ -61,8 +61,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-    
-    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
     
  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=TharllysonSilva&theme=radical)
 
